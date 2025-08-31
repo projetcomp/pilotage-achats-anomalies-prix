@@ -1,2 +1,10 @@
-# pilotage-achats-anomalies-prix
-Tableau de bord Power BI — Achats publics SF : pilotage des dépenses &amp; volumes, détection d’anomalies de prix unitaire (>5%). Contient le PBIX, PDF (rapport + tableau de bord), GIF démo et un CSV échantillon (50–150 dernières lignes).
+# Pilotage Achats — Détection d’anomalies prix (Power BI)
+
+## Objectif
+Analyser des lignes de bons de commande (San Francisco Procurement) pour piloter les dépenses/volumes et détecter des écarts anormaux de prix unitaires (seuil 5 %).
+
+## Contenu du dépôt
+- **Pilotage_Achats_AnomaliesPrix.pbix** — rapport Power BI
+- **Tableau de bord.pdf** — export du dashboard
+- **Rapport de projet.pdf** — notes & process détaillé
+- **démo.gif** — aperçu animé
