@@ -8,3 +8,5 @@ Analyser des lignes de bons de commande (San Francisco Procurement) pour piloter
 - **Tableau de bord.pdf** — export du dashboard
 - **Rapport de projet.pdf** — notes & process détaillé
 - **démo.gif** — aperçu animé
+
+- lien des données CSV : https://www.kaggle.com/datasets/vineethakkinapalli/san-francisco-procurement-data?resource=download
